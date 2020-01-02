@@ -1,0 +1,43 @@
+body{
+	margin:0;
+	height:screen-height;
+	width: screen-width;
+	background-color: black;
+}
+
+img{
+  background-color: #cccccc;
+  width: 15%;
+  height: 15%;
+}
+
+div.logo{
+	width:100%;
+	text-align:center;
+}
+
+#demo{
+	font-size: 180px;
+color: white;
+text-align: center;
+margin:0;
+}
+
+p.dick{
+font-size: 60px;
+color: white;
+text-align: center;
+margin:2;
+}
+
+p.title{
+	font-size: 120px;
+color: white;
+text-align: center;
+margin:0;
+}
+
+p.cups{
+color: white;
+text-align: center;
+}
